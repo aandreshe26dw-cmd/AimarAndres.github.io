@@ -1,0 +1,25 @@
+#a{
+border-radius: 20px;
+background-color: rgba(92, 105, 117, 0.705);
+margin: 10px;
+padding: 10px;
+margin-left: 20%;
+  margin-right: 20%;
+}
+
+#b{
+border-radius: 20px 40px 40px 20px;
+background-color: rgb(118, 190, 36);
+margin: 10px;
+padding: 10px;
+margin-left: 20%;
+  margin-right: 20%;
+}
+#c{
+border-radius: 20px 0px 40px 0px;
+background-color: rgb(118, 190, 36);
+margin: 10px;
+padding: 10px;
+margin-left: 20%;
+  margin-right: 20%;
+}

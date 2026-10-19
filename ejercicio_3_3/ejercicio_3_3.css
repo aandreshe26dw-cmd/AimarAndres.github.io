@@ -1,0 +1,51 @@
+#a{
+transform: rotate(30deg);
+background-color: rgb(118, 190, 36);
+margin: 10px;
+padding: 10px;
+margin-left: 20%;
+margin-right: 20%;
+margin-bottom: 50px;
+
+}
+#b{
+transform: rotate(-30deg);
+background-color: rgb(118, 190, 36);
+margin: 10px;
+padding: 10px;
+margin-left: 20%;
+ margin-right: 20%;
+ margin-bottom: 300px;
+}
+
+#c{
+transform: rotate(10deg);
+transform-origin: left top;
+background-color: rgb(118, 190, 36);
+margin: 10px;
+padding: 10px;
+margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 300px;
+
+
+}
+#d{
+transform: scale(0.8 , 1.2);
+transform-origin: left top;
+background-color: rgb(118, 190, 36);
+margin: 10px;
+padding: 10px;
+margin-left: 20%;
+  margin-right: 20%;
+    margin-bottom: 50px;
+}
+#e{
+transform: scale(1.20, -1);
+background-color: rgb(118, 190, 36);
+margin: 10px;
+padding: 10px;
+margin-left: 20%;
+  margin-right: 20%;
+
+}
